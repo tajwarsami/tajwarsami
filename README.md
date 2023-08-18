@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **STL, Graph & Algorithm, JAVA**
 
-- 💬 Ask me about **C,C++,Data structure and Algorithms**
+- 💬 Ask me about **C,C++,Data structure **
 
 - 📫 How to reach me **tajwarhossain2808@gmail.com**
 
